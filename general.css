@@ -1,12 +1,16 @@
 html {
-  background-color: orange;
+  background-color: #3366CC;
   Font-family: Georgia;
 }
 
 h1 {
-  color: red;
+  color: #3399FF;
 }
 
 h2 {
-  color: red;
+  color: #3399FF;
+}
+
+div {
+  color:#FFFFFF;
 }
